@@ -1,0 +1,26 @@
+.header{
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    background: blue;
+    color: pink;
+    padding: 20px;
+}
+
+
+.container {
+background-color: gray;
+max-width: 800px;
+margin: 0 auto
+}
+
+.name {
+font-size: 30px;
+color: red;
+cursor: pointer;
+
+}
+.name:hover {
+    color: black;
+    transition: all 5s ease-in-out;
+}
